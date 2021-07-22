@@ -12,7 +12,7 @@ def publish(method,body):
     # channel.basic_publish(exchange='', routing_key='service', body='Hello World!')
 print("[x] Sent 'hello world'")
 
-
+print("hi)
 
 '''
 
